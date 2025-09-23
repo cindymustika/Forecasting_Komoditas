@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk memberikan gambaran tren harga komoditas padi dan sin
 2. Jalankan notebook **Forecast_Padi_dan_Singkong.ipynb** untuk melakukan forecasting.  
 3. Lihat hasil prediksi pada file **Prediksi Padi & Singkong.xlsx**.  
 
-## Contoh Visualisasi  
+## Hasil Visualisasi  
 
 ### Prediksi Harga Padi
 ![Forecast Komoditas](./images/Visualisasi_padi.png)
