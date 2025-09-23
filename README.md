@@ -1,6 +1,6 @@
 # Forecasting Padi dan Singkong  
 
-Repositori ini berisi data, kode, dan hasil prediksi harga komoditas **padi dan singkong** menggunakan metode forecasting.  
+Repositori ini berisi data, kode, dan hasil prediksi harga komoditas **padi dan singkong** menggunakan metode Hybrid SARIMA - LSTM (Padi) dan Prophet (Singkong).  
 
 ## Struktur File  
 
@@ -14,7 +14,7 @@ Repositori ini berisi data, kode, dan hasil prediksi harga komoditas **padi dan 
   File hasil output dari forecasting. Berisi nilai prediksi harga padi dan singkong sesuai periode yang dianalisis.  
 
 ## Tujuan  
-Proyek ini bertujuan untuk memberikan gambaran tren harga komoditas padi dan singkong di Indonesia sehingga dapat mendukung pengambilan keputusan dalam sektor pertanian maupun analisis ekonomi.  
+Proyek ini bertujuan untuk memberikan gambaran tren harga komoditas padi dan singkong di Provinsi Lampung.  
 
 ## Cara Penggunaan  
 1. Buka file **Dataset.xlsx** untuk melihat data historis.  
